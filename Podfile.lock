@@ -1,0 +1,44 @@
+PODS:
+  - Action (3.5.0):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - NSObject+Rx (4.2.0):
+    - RxSwift (~> 4.0)
+  - R.swift (4.0.0):
+    - R.swift.Library (~> 4.0.0)
+  - R.swift.Library (4.0.0)
+  - RxBlocking (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxKeyboard (0.8.1):
+    - RxCocoa (>= 4.0.0)
+    - RxSwift (>= 4.0.0)
+  - RxSwift (4.1.2)
+  - RxTest (4.1.2):
+    - RxSwift (~> 4.0)
+
+DEPENDENCIES:
+  - Action
+  - NSObject+Rx
+  - R.swift
+  - RxBlocking (~> 4.0)
+  - RxCocoa (~> 4.0)
+  - RxKeyboard
+  - RxSwift (~> 4.0)
+  - RxTest (~> 4.0)
+
+SPEC CHECKSUMS:
+  Action: d60087ebce41b969d1afdad01e2fa1372a82f26e
+  NSObject+Rx: cbbc05e3cb3ad446cdbced3e00e39c9efaf02925
+  R.swift: d6a5ec2f55a8441dc0ed9f1f8b37d7d11ae85c66
+  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
+  RxBlocking: f6054985901412fc8c02daa84e92d4ba68c61389
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxKeyboard: 28d984440671becc75350b1dfae7ae08d31076df
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  RxTest: e634f15fd2c2cd0e0120132ef7a4f7be69ad0393
+
+PODFILE CHECKSUM: 3f34e7e8d20f631473cc8abeb80183a062f96394
+
+COCOAPODS: 1.4.0
